@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-
+//Pokémon
 namespace AppTeste
 {
     public static class MauiProgram
