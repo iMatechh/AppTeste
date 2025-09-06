@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-
+//Labubuses
 namespace AppTeste
 {
     public static class MauiProgram
